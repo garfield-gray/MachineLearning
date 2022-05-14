@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.6)  14 MAY 2022 18:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.6)  14 MAY 2022 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -327,7 +327,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 \\\;
+l.1 \\\;
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -346,11 +346,11 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<OAI1.jpg, id=14, 522.95375pt x 528.97626pt>
-File: OAI1.jpg Graphic file (type jpg)
-<use OAI1.jpg>
-Package pdftex.def Info: OAI1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 209.12683pt x 211.53831pt.
+<scatter.png, id=14, 876.27374pt x 685.56125pt>
+File: scatter.png Graphic file (type png)
+<use scatter.png>
+Package pdftex.def Info: scatter.png  used on input line 8.
+(pdftex.def)             Requested size: 418.25368pt x 327.22455pt.
 
 ! LaTeX Error: \begin{document} ended by \end{landscape}.
 
@@ -365,227 +365,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 \begin{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<OAI1.png, id=15, 508.90125pt x 299.1175pt>
-File: OAI1.png Graphic file (type png)
-<use OAI1.png>
-Package pdftex.def Info: OAI1.png  used on input line 14.
-(pdftex.def)             Requested size: 209.12683pt x 122.91737pt.
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \end{landscape}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (21.89363pt too wide) in paragraph at lines 14--17
-[]| []
- []
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \\\;
-         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
-
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 \begin{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<Nor.jpg, id=16, 528.97626pt x 568.1225pt>
-File: Nor.jpg Graphic file (type jpg)
-<use Nor.jpg>
-Package pdftex.def Info: Nor.jpg  used on input line 25.
-(pdftex.def)             Requested size: 209.12683pt x 224.60097pt.
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 \end{landscape}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \begin{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<Nor.png, id=17, 518.93875pt x 288.07625pt>
-File: Nor.png Graphic file (type png)
-<use Nor.png>
-Package pdftex.def Info: Nor.png  used on input line 31.
-(pdftex.def)             Requested size: 209.12683pt x 116.09439pt.
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \end{landscape}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (21.89363pt too wide) in paragraph at lines 31--34
-[]| []
- []
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 \\{
-        \Large inverter}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \begin{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<Inv.jpg, id=18, 272.01625pt x 327.2225pt>
-File: Inv.jpg Graphic file (type jpg)
-<use Inv.jpg>
-Package pdftex.def Info: Inv.jpg  used on input line 39.
-(pdftex.def)             Requested size: 209.12683pt x 251.58263pt.
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \end{landscape}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \begin{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<Inv.png, id=19, 349.305pt x 178.6675pt>
-File: Inv.png Graphic file (type png)
-<use Inv.png>
-Package pdftex.def Info: Inv.png  used on input line 45.
-(pdftex.def)             Requested size: 209.12683pt x 106.96686pt.
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \end{landscape}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (21.89363pt too wide) in paragraph at lines 45--48
+Overfull \hbox (3.39845pt too wide) in paragraph at lines 8--19
 []| []
  []
 
 [2
 
- <./OAI1.jpg> <./OAI1.png> <./Nor.jpg> <./Nor.png>]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 \\\;
-         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+ <./scatter.png>]
 
 ! LaTeX Error: Environment landscape undefined.
 
@@ -593,17 +379,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 \begin{landscape}
+l.20 \begin{landscape}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<OAI2.jpg, id=25, 412.54124pt x 151.56625pt>
-File: OAI2.jpg Graphic file (type jpg)
-<use OAI2.jpg>
-Package pdftex.def Info: OAI2.jpg  used on input line 58.
-(pdftex.def)             Requested size: 209.12683pt x 76.8329pt.
+<clusters.png, id=19, 876.27374pt x 685.56125pt>
+File: clusters.png Graphic file (type png)
+<use clusters.png>
+Package pdftex.def Info: clusters.png  used on input line 22.
+(pdftex.def)             Requested size: 418.25368pt x 327.22455pt.
 
 ! LaTeX Error: \begin{document} ended by \end{landscape}.
 
@@ -611,94 +397,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \end{landscape}
+l.24 \end{landscape}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--61
-
- []
-
-
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 \begin{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<OAI2.png, id=26, 432.61626pt x 307.1475pt>
-File: OAI2.png Graphic file (type png)
-<use OAI2.png>
-Package pdftex.def Info: OAI2.png  used on input line 64.
-(pdftex.def)             Requested size: 209.12683pt x 148.47424pt.
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.66 \end{landscape}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (21.89363pt too wide) in paragraph at lines 64--67
+Overfull \hbox (3.39845pt too wide) in paragraph at lines 22--26
 []| []
  []
 
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.68 \\\;
-         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 ! LaTeX Error: Environment landscape undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.76 \begin{landscape}
+l.27 \begin{landscape}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<wave3.png, id=27, 750.805pt x 391.4625pt>
-File: wave3.png Graphic file (type png)
-<use wave3.png>
-Package pdftex.def Info: wave3.png  used on input line 78.
-(pdftex.def)             Requested size: 209.12683pt x 109.03531pt.
+<means.png, id=20, 867.24pt x 685.56125pt>
+File: means.png Graphic file (type png)
+<use means.png>
+Package pdftex.def Info: means.png  used on input line 29.
+(pdftex.def)             Requested size: 418.25368pt x 330.63478pt.
 
 ! LaTeX Error: \begin{document} ended by \end{landscape}.
 
@@ -706,49 +433,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \end{landscape}
+l.31 \end{landscape}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Environment landscape undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 \begin{landscape}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<OAI4.png, id=28, 477.785pt x 415.5525pt>
-File: OAI4.png Graphic file (type png)
-<use OAI4.png>
-Package pdftex.def Info: OAI4.png  used on input line 85.
-(pdftex.def)             Requested size: 209.12683pt x 181.8862pt.
-
-! LaTeX Error: \begin{document} ended by \end{landscape}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 \end{landscape}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (21.89363pt too wide) in paragraph at lines 85--88
+Overfull \hbox (3.39845pt too wide) in paragraph at lines 29--32
 []| []
  []
 
-[3 <./Inv.jpg> <./Inv.png> <./OAI2.jpg> <./OAI2.png>]
+[3 <./clusters.png>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -756,29 +452,39 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.89 \\\;
-         
+l.33 \\a
+        nd these are the mean points which clusters are formed around them
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [4 <./wave3.png> <./OAI4.png>] (./test.aux (./1.aux)) ) 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 33--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--52
+
+ []
+
+[4 <./means.png>] (./test.aux (./1.aux)) ) 
 Here is how much of TeX's memory you used:
- 3600 strings out of 478287
- 52600 string characters out of 5849290
+ 3554 strings out of 478287
+ 52078 string characters out of 5849290
  349283 words of memory out of 5000000
- 21779 multiletter control sequences out of 15000+600000
+ 21737 multiletter control sequences out of 15000+600000
  471068 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,290b,161s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on test.pdf (4 pages, 469051 bytes).
+ 55i,5n,62p,230b,161s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb>
+Output written on test.pdf (4 pages, 372840 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
